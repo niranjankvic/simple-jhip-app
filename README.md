@@ -2,6 +2,8 @@
 
 This application was generated using JHipster 8.1.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.1.0](https://www.jhipster.tech/documentation-archive/v8.1.0).
 
+This is a monolith app with Angular, Spring Boot, Maven, SQL database (H2 for Dev and PostgreSQL for Prod), JUnit & Cucumber.
+
 ## Project Structure
 
 Node is required for generation and recommended for development. `package.json` is always generated for a better development experience with prettier, commit hooks, scripts and so on.
